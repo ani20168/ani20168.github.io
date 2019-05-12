@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"主角","characterIndex":0,"characterName":"主角","classId":1,"equips":[1,2,1],"faceIndex":0,"faceName":"主角","traits":[],"initialLevel":1,"maxLevel":99,"name":"萊恩","nickname":"萊恩","note":"","profile":""},
+{"id":2,"battlerName":"魔女-費狄菈恩","characterIndex":0,"characterName":"魔女-費狄菈恩","classId":3,"equips":[9,12,13,14,0],"faceIndex":0,"faceName":"魔女-費狄菈恩","traits":[],"initialLevel":1,"maxLevel":99,"name":"費狄菈恩","nickname":"費狄菈恩","note":"","profile":""},
+{"id":3,"battlerName":"遊俠","characterIndex":0,"characterName":"遊俠","classId":2,"equips":[6,0,3,0,0],"faceIndex":0,"faceName":"遊俠","traits":[],"initialLevel":1,"maxLevel":99,"name":"???","nickname":"???","note":"","profile":""},
+{"id":4,"battlerName":"聖女","characterIndex":0,"characterName":"聖女","classId":4,"equips":[13,0,21,22,0],"faceIndex":0,"faceName":"聖女","traits":[],"initialLevel":1,"maxLevel":99,"name":"莉莉安","nickname":"莉莉安","note":"","profile":""}
+]
